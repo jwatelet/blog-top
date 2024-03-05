@@ -64,6 +64,12 @@ Style/Documentation:
 Style/EmptyMethod:
   Enabled: false
 
+Style/MutableConstant:
+  Enabled: false
+
+Style/WordArray:
+  Enabled: false
+
 # Offense count: 32
 # This cop supports unsafe autocorrection (--autocorrect-all).
 # Configuration parameters: EnforcedStyle.
